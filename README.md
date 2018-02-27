@@ -1,6 +1,6 @@
 # 
 
-This is the working area for the individual Internet-Draft, "".
+This is the working area for the individual Internet-Draft, draft-thakore-hotspot-use-cases.
 
 * [Editor's Copy](https://darshakthakore.github.io/ietf-small-hotspot/#go.draft-thakore-hotspot-use-cases.html)
 * [Individual Draft](https://tools.ietf.org/html/draft-thakore-hotspot-use-cases)
